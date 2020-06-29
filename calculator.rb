@@ -1,2 +1,2 @@
 first_number = 0
-select_second = 1
+second_number = 1
